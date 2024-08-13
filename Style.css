@@ -117,6 +117,18 @@ textarea{
     vertical-align: top;
 }
 
+.check-info-button{
+    background-color: rgb(169, 156, 13);
+    border-radius: 20px;
+    color: white;
+    border: none;
+    height: 40px;
+}
+.check-info-button:hover{
+    background-color: paleturquoise;
+    color: black;
+    cursor: pointer;
+}
 
 
 footer {
